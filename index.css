@@ -1,0 +1,63 @@
+.image-cropper {
+  width: 200px;
+  height: 200px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+body {
+  margin: 100px;
+  border: 2px;
+}
+
+footer {
+  text-align: center;
+  font-style: italic;
+}
+
+img {
+  display: inline;
+  margin: 0 auto;
+  height: 100%;
+  width: auto;
+}
+
+.container {
+  text-align: center;
+  margin: 20px;
+}
+
+.col {
+  vertical-align: middle;
+  padding: 20px;
+}
+
+.updateNumber {
+  padding: 30px;
+}
+
+.name {
+  font-weight: bold;
+  text-align: left;
+}
+
+.profileInfo {
+  text-align: left;
+  padding: 10px;
+}
+
+.posts {
+  border: 2px solid grey;
+  border-radius: 12px;
+  min-height: 600px;
+  margin: 20px;
+}
+
+.btn btn-primary btn-lg {
+  display: center;
+}
+
+.post {
+  height: 150px;
+}
