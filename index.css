@@ -61,3 +61,8 @@ img {
 .post {
   height: 150px;
 }
+
+.pic {
+  border: 4px grey;
+  min-width: 140px;
+}
