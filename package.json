@@ -1,0 +1,24 @@
+{
+  "name": "social-media",
+  "version": "1.0.0",
+  "description": "social media",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jleaky/social-media.git"
+  },
+  "keywords": [
+    "social",
+    "media"
+  ],
+  "author": "jleaky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jleaky/social-media/issues"
+  },
+  "homepage": "https://github.com/jleaky/social-media#readme",
+  "dependencies": {
+    "material-design-lite": "^1.3.0"
+  }
+}
